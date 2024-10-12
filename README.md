@@ -1,4 +1,4 @@
-<h2>Welcome ,My name is Maksym Kharyshyn</h2>
+<h2>Welcome ,My name is Maksym Kharyshyn </h2>
 <h4>I’m interested in getting a Frontend Developer job</h4>
 
 - 🌱 I’m currently learning HTML, CSS JavaScript and React.js 
@@ -10,8 +10,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yevhen-berestian-62007714b/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
-  <a href="https://t.me/jberestian"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
+  <a href="https://t.me/Mr_Bubbles"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
 <h3 align="left">My stack:</h3>
